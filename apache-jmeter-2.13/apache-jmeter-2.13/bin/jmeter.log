@@ -1,0 +1,19 @@
+2015/06/28 23:22:37 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: Loading user properties from: C:\Software\Selenium\apache-jmeter-2.13\apache-jmeter-2.13\bin\user.properties 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: Loading system properties from: C:\Software\Selenium\apache-jmeter-2.13\apache-jmeter-2.13\bin\system.properties 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: Copyright (c) 1998-2015 The Apache Software Foundation 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: Version 2.13 r1665067 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: java.version=1.8.0_45 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: os.name=Windows 8.1 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: os.arch=amd64 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: os.version=6.3 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: JMeterHome=C:\Software\Selenium\apache-jmeter-2.13\apache-jmeter-2.13 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: user.dir  =C:\Software\Selenium\apache-jmeter-2.13\apache-jmeter-2.13\bin 
+2015/06/28 23:22:37 INFO  - jmeter.JMeter: PWD       =C:\Software\Selenium\apache-jmeter-2.13\apache-jmeter-2.13\bin 
+2015/06/28 23:22:42 INFO  - jmeter.JMeter: IP: 192.168.157.1 Name: Krishna FullName: Krishna 
+2015/06/28 23:22:43 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
+2015/06/28 23:22:43 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
